@@ -1,3 +1,5 @@
+// importar nodo_modules na pasta principal 
+
 const Database = require('./database/db')
 
 const { subjects, weekdays, getSubject, convertHoursToMinutes} = require('./utils/format')
